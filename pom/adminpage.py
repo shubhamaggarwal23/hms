@@ -50,3 +50,4 @@ class Adminpage:
 
         self.wrapper.click_element(self.click_admin_dropdown)
         self.wrapper.click_element(self.click_admin_logout)
+#booooooo
